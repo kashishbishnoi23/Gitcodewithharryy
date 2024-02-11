@@ -1,1 +1,6 @@
-error.log
+
+
+*.log
+
+Byelog
+/dir/
